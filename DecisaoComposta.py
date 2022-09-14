@@ -4,3 +4,5 @@ if idade>=65:
     print("O paciente " + nome + " POSSUI atendimento prioritário!")
 else:
     print("O paciente " + nome + " NÃO possui atendimento prioritário!")
+
+    # texto para entender o controle de versoes
