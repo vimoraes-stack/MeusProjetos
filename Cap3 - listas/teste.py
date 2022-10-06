@@ -1,4 +1,2 @@
-entrada = input ("Digita: ")
-while entrada == "":
-    entrada = input ("Digita: ")
-print ("hello")
+s = int("45")
+print(s)
